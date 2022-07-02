@@ -117,7 +117,7 @@ main {
 
 .p-topNewsList__time {
     /* CSSを追加しましょう */
-    margin-right: 30px; /* 新着情報　縦の間隔20px */
+    margin-right: 30px; /* 新着情報　横の間隔30px */
     margin-top: 20px; /* 縦の間隔20px */
 }
 
